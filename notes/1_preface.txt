@@ -1,0 +1,4 @@
+History of the NYSE
+- NYSE used to handle trades and liquidity acquisition in one centralized location
+- However, liquidity has become increasingly fragmented/decentralized due to legislation such as 'Decimilization (reduce delta in bid prices), rebates for 'Makers (liquidity providers)', 'Dark Pools (less transparency in funding which reduces information leakage)', and the 'Regulation National Market System (essentially mandates that liquidity providers get to play by the same rules when it comes to fees and giving the 'takers' the best price possible)
+- All of this liquidity fragmentation has shifted the focus of financial firms towards HFT because the only way to capitalize on the increasingly diminishing spreads was to trade in volume, and the lack of descrimination amongst liquidity providers made speed of a execution and information leakage avoidance critical
